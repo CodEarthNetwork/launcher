@@ -7,9 +7,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="openauth-1.0.4" level="project" />
-    <orderEntry type="library" name="openlauncherlib-3.0.3-BETA" level="project" />
-    <orderEntry type="library" name="s-update-3.1.0-BETA" level="project" />
-    <orderEntry type="library" name="swinger-1.0.0-BETA" level="project" />
+    <orderEntry type="library" name="MOJAuth-2.0.0-Beta" level="project" />
   </component>
 </module>
